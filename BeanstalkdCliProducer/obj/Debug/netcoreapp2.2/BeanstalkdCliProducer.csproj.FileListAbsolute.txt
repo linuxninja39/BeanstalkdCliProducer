@@ -1,0 +1,11 @@
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/bin/Debug/netcoreapp2.2/BeanstalkdCliProducer.deps.json
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/bin/Debug/netcoreapp2.2/BeanstalkdCliProducer.runtimeconfig.json
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/bin/Debug/netcoreapp2.2/BeanstalkdCliProducer.runtimeconfig.dev.json
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/bin/Debug/netcoreapp2.2/BeanstalkdCliProducer.dll
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/bin/Debug/netcoreapp2.2/BeanstalkdCliProducer.pdb
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.csprojAssemblyReference.cache
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.csproj.CoreCompileInputs.cache
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.AssemblyInfoInputs.cache
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.AssemblyInfo.cs
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.dll
+/home/jacob/RiderProjects/BeanstalkdCliProducer/BeanstalkdCliProducer/obj/Debug/netcoreapp2.2/BeanstalkdCliProducer.pdb
